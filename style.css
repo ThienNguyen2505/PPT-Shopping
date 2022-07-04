@@ -50,31 +50,31 @@ button{
     justify-content: space-around;
 }
 
-.title{
+.title-iphone{
     text-align: center;
     font-size: 40px;
     margin-top: 30px;
     
 }
 
-.title a{text-decoration: none}
+.title-iphone a{text-decoration: none}
 
-.list{
+.list-iphone{
     display: flex;
     margin: 30px 0;
     justify-content: center;
     
 }
-.product-list{
+.product-list-iphone{
     text-align: center;
 }
-.product-list-card{
+.product-list-card-iphone{
     margin: 0 20px;
     width: 283px;
     justify-content: space-between;
 }
 
-.click-product{
+.click-product-iphone{
     background-color: #fff;
     color: blue;
     text-align: center;
@@ -83,10 +83,47 @@ button{
     padding: 10px    20px;
 }
 
-.prince-produce{
+.prince-produce-iphone{
     margin-bottom: 20px;
 }
 
+.product-list-ipad{
+    text-align: center;
+}
 
+.title-ipad{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+}
+
+.title-ipad a {
+    text-decoration: none
+}
+
+.list-ipad {
+    display: flex;
+    margin: 30px 0;
+    justify-content: center;
+}
+
+.product-list-card-ipad{
+    margin: 0 20px;
+    width: 283px;
+    justify-content: space-between; 
+}
+
+.prince-produce-ipad{
+    margin-bottom: 20px;
+}
+
+.click-product-ipad{
+    background-color: #fff;
+    color: blue;
+    text-align: center;
+    font-size: 15px;
+    border: 2px solid blue;
+    padding: 10px    20px;
+}
 
 
