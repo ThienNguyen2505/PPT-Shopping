@@ -301,7 +301,7 @@ button{
 
 .click-product-ipad{
     background-color: #fff;
-    color: blue;
+    color: rgb(97, 97, 195);
     text-align: center;
     font-size: 15px;
     border: 2px solid blue;
@@ -483,6 +483,12 @@ button{
     color: white;
     
 }
+
+.all-product-list-ipad{
+    
+}
+
+
     
 
 
