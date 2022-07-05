@@ -1,0 +1,115 @@
+
+#header{
+    height: 50px;
+    background-color: gray;
+    /* thanh cuộn cố định */
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    font-size: 15px;
+    font-family:system-ui;
+    
+    
+}
+
+#nav   {
+    display: inline-block;
+}
+
+
+#nav> li{
+    display: inline-block;
+}
+
+#nav li{
+    position: relative;
+}
+
+#nav li:hover .subnav{
+    display: block;
+}
+
+
+#nav .subnav {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    top :100%;
+    left: 0;
+    background-color: #fff; 
+    list-style-type: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+   
+    
+}
+
+#nav .subnav a {
+    color: #333;
+    padding: 0px 12px;
+    line-height: 38px;
+}
+
+#nav >li >a{
+    color: white;
+    
+
+}
+
+#nav li a{
+    text-decoration: none;
+    line-height: 46px;
+    padding: 0px 20px;
+    display: block;
+    
+   
+
+}
+
+#nav > li:hover > a{
+    color: black;
+    background-color: grey;
+}
+
+#nav .subnav li:hover {
+    color: black;
+    background-color: grey;
+}
+#nav .nav-arrow-down {
+    font-size: 14px;
+}
+
+
+#header .cart-btn:hover{
+    background-color: red;
+    /* thay đổi con trỏ chuột */
+    cursor: pointer;
+}
+#header .cart-btn{
+    float: right;
+    color: #fff;
+    line-height: 46px;
+    padding: 0 21px;
+}
+
+
+#header .search-btn{
+    float: right;
+    color: #fff;
+    line-height: 46px;
+    padding: 0 21px;
+    
+}
+
+#header .search-btn:hover{
+    background-color: red;
+    /* thay đổi con trỏ chuột */
+    cursor: pointer;
+}
+
+#slider
+{
+    /* min-height: 500px; */
+    /* margin-top: 46px; */
+    top: 0;
+}
