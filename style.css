@@ -87,8 +87,8 @@ NGUYÊN TẮC LÀM
 
 
 
-#header{
-    height: 50px;
+#header{ 
+    height: 46px;
     background-color: gray;
     /* thanh cuộn cố định */
     position: fixed;
@@ -595,10 +595,71 @@ img {vertical-align: middle;}
     cursor: pointer;
 }
 
+/* -------FOOTER------ */ 
 
-
-
+footer{
+    width: 100%;
+    background-color: #1d1d1f;
+    display: flex;
+    padding: 10px;
+    height: 400px;
+}
+.about{
+    width: 60%;
+    margin-left: 10px;
     
+}
+    
+.link{
+    width: 40%
+}
 
+.list{
+    margin-top:20px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
 
+h2{
+    color:white;
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+    margin-top: 20px;
+}
 
+p{
+    margin-top:20px
+}
+p{
+    color:white
+}
+ul{
+    list-style: none;
+    
+}
+ul li {
+    margin-bottom: 15px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: blue;
+    transition: all 1s;
+}
+
+.thongtin{
+    margin-top:20px;
+    display: flex;
+}
+
+.hihi{
+    display: flex;
+}
+
+.full-list{
+    color: white;
+}
