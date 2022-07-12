@@ -627,7 +627,7 @@ ul li a{
 }
 a{
     text-decoration: none;
-    color: white;
+    color: #333;
 }
 
 a:hover{
