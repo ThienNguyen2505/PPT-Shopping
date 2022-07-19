@@ -600,7 +600,7 @@ img {vertical-align: middle;}
 
 footer{
     width: 100%;
-    background-color: #333;
+    background-color: black;
     display: flex;
     height: 400px;
     margin: 0;
@@ -679,9 +679,35 @@ a:hover{
     cursor: pointer;
 }
 .icon-btn{
-    float: center;
     color: #fff;
     line-height: 46px;
     padding: 15px;
-    
+    font-size: 20px;
+    justify-content: flex-end;
+   
+
+}
+
+.logo-footer{
+    font-size: 1.7em;
+    font-weight: bold;
+}
+
+.name{
+    font-size: 10px;
+
+}
+
+p{
+    letter-spacing: 1px;
+}
+
+.tieude{
+    color: black;
+}
+
+
+.menubar{
+    font-weight: bold;
+    font-size: 15px;
 }
