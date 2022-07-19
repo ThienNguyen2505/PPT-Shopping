@@ -2,13 +2,15 @@
 
 
 html{
-    background-color: black;
+    background-color:black;
 }
 
 
 body{
-    /* font-style: normal; */
-    font-size: 20px;   
+    font-style: normal;
+    font-size: 20px;
+    color: #111;
+    line-height: 1.15;
 }
 
 
@@ -179,7 +181,7 @@ NGUYÊN TẮC LÀM
     float: right;
     color: #fff;
     line-height: 46px;
-    padding: 16px 21px;
+    padding: 0px 21px;
 }
 
 
@@ -187,7 +189,7 @@ NGUYÊN TẮC LÀM
     float: right;
     color: #fff;
     line-height: 46px;
-    padding: 16px 21px;
+    padding: 0px 21px;
     
 }
 
