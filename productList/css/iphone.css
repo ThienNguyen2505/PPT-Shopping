@@ -350,6 +350,7 @@ a:hover{
 
 p{
     letter-spacing: 1px;
+    text-align: justify;
 }
 
 .menubar{
