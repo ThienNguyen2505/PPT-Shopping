@@ -150,6 +150,7 @@ NGUYÊN TẮC LÀM
     line-height: 46px;
     padding: 0px 20px;
     display: block;
+    font-weight: 900;
     
    
 
@@ -596,6 +597,18 @@ img {vertical-align: middle;}
     cursor: pointer;
 }
 
+
+.tieude{
+    color: black;
+}
+
+
+.menubar{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
 /* -------FOOTER------ */ 
 
 footer{
@@ -702,12 +715,4 @@ p{
     letter-spacing: 1px;
 }
 
-.tieude{
-    color: black;
-}
 
-
-.menubar{
-    font-weight: bold;
-    font-size: 15px;
-}
