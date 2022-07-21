@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-<html  lang="en">
+<html lang="en"></html>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mac - Đại Lý Ủy Quyền Apple</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/PPT-SHOPPING/productList/css/.css">
-    <link rel="stylesheet" href="/font/themify-icons-font/themify-icons/themify-icons.css">
+    <title>PTT Shop - Đại Lý Ủy Quyền Apple</title>
+    <link rel="stylesheet" href="http://ppt-shopping/productList/">
+    <link rel="stylesheet" href="/PPT-SHOPPING/font/themify-icons-font/themify-icons/themify-icons.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link rel="stylesheet" href="/PPT-SHOPPING/productList/css/mac.css">
 </head>
 
 <body>
@@ -75,8 +74,8 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/MAC/MAC-air-2020.jpg" alt="">
-                        </a>
+                            <img src="/PPT-SHOPPING/productList/img/MAC/MAC-air-2020.jpg" alt="">
+</a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
@@ -93,7 +92,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/MAC/MacBookPro-2021.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/MAC/MacBookPro-2021.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -112,7 +111,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/MAC/MAC-air-2022.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/MAC/MAC-air-2022.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -131,7 +130,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/MAC/MAC-air.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/MAC/MAC-air.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -149,8 +148,8 @@
             <li>
                 <div class="product-item">
                     <div class="product-top">
-                        <a href="" class="product-thumb">
-                            <img src="/productList/img/MAC/MAC-pro-128GB-2019.jpg" alt="">
+<a href="" class="product-thumb">
+                            <img src="/PPT-SHOPPING/productList/img/MAC/MAC-pro-128GB-2019.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -169,7 +168,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/MAC/MAC-pro-2017.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/MAC/MAC-pro-2017.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -188,7 +187,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/MAC/MAC-pro-M1-2021.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/MAC/MAC-pro-M1-2021.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -207,7 +206,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/MAC/MAC-pro-M2-2022.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/MAC/MAC-pro-M2-2022.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -217,15 +216,14 @@
                             <div class="product-price">24.000.000</div>
                         </div>
                     </div>
-                
-            </li>
+</li>
 
             <!-- sp9 -->
             <li>
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/MAC/MAC-pro-M1-2021.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/MAC/MAC-pro-M1-2021.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -245,7 +243,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/MAC/MAC-xach-tay-512G-2019.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/MAC/MAC-xach-tay-512G-2019.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -264,7 +262,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/MAC/Macbook-Air-2021.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/MAC/Macbook-Air-2021.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -283,13 +281,13 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/MAC/macbook_silver-2019.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/MAC/macbook_silver-2019.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
                             <a href="" class="product-cat">128GB</a>
-                            <a href="" class="product-name">MACBOOK Silver 2019</a>
+<a href="" class="product-name">MACBOOK Silver 2019</a>
                             <div class="product-price">31.000.000</div>
                         </div>
                     </div>
@@ -354,7 +352,7 @@
         <div class="box4">
             <h3>Chính sách</h3>
             <ul class="full-list">
-                <li><a href="">Trả góp</a></li>
+<li><a href="">Trả góp</a></li>
                 <li><a href="">Giao Hàng</a></li>
                 <li><a href="">Hủy giao dịch</a></li>
                 <li><a href="">Đổi trả</a></li>

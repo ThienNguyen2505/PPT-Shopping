@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PTT Shop - Đại Lý Ủy Quyền Apple</title>
     <link rel="stylesheet" href="http://ppt-shopping/productList/">
-    <link rel="stylesheet" href="/font/themify-icons-font/themify-icons/themify-icons.css">
+    <link rel="stylesheet" href="/PPT-SHOPPING/font/themify-icons-font/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link rel="stylesheet" href="/PPT-SHOPPING/productList/css/style.css">
 </head>
@@ -70,13 +70,12 @@
 
             <div class="mySlides fade">
              
-              <img class="slide" src="/PPT-SHOPPING/image/hinhanh28.png" style= width:100% >
+              <img class="slide" src="/PPT-SHOPPING/image/hinhanh33.webp" style= width:100% >
               
             </div>
+<div class="mySlides fade">
             
-            <div class="mySlides fade">
-            
-             <img class="slide" src="/PPT-SHOPPING/image/hinhanh33.webp" style="width:100%">
+             <img class="slide" src="/PPT-SHOPPING/image/hinhanh34.webp" style="width:100%">
 
             </div>
             
@@ -88,7 +87,7 @@
 
             <div class="mySlides fade">
              
-                <img class="slide" src="/PPT-SHOPPING/image/hinhanh33.webp" style="width:100%">
+                <img class="slide" src="/PPT-SHOPPING/image/hinhanh28.png" style="width:100%">
                 
               </div>
             
@@ -114,10 +113,10 @@
             <div class="card-title text-card">Iphone 13</div>
             <div class="card-subtitle text-card">Đây là thiết kế của năm 2021</div>
             <div class="price text-card">Giá ưu đãi chỉ từ 25 TRIỆU</div>
-           <a href="http://127.0.0.1:5501/productList/iPhone.html"> <button class="button">Mua ngay</button></a>
+           <a href="http://localhost:8080/PPT-SHOPPING/productList/php/iPhone.php"> <button class="button">Mua ngay</button></a>
         </div>
             <div class="img-card">
-                <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh1.jpg" alt="hinhanh">
+                <img class="hinhanh" src="/PPT-SHOPPING/image/hinhanh2.png" alt="hinhanh">
             </div>
         </div>
 
@@ -126,9 +125,10 @@
             <div class="card-title text-card">Macbook </div>
             <div class="card-subtitle text-card">Mua ngay giảm giá đến 10%</div>
             <div class="price text-card">Giá ưu đãi chỉ từ 26 TRIỆU</div>
-            <a href="http://127.0.0.1:5501/productList/mac.html"><button class="button">Mua ngay</button></a>
+            <a href="http://localhost:8080/PPT-SHOPPING/productList/php/mac.php"><button class="button">Mua ngay</button></a>
             </div>
             <div class="img-card">
+                <img class="hinhanh" src="/PPT-SHOPPING/image/hinhanh14.jpg" alt="hinhanh">
             </div>
         </div>
 
@@ -137,10 +137,10 @@
             <div class="card-title text-card">IPAD </div>
             <div class="card-subtitle text-card">Thiết kế mới hợp với mọi lứa tuổi</div>
             <div class="price text-card">Giá ưu đãi chỉ từ 30 TRIỆU</div>
-            <a href="http://127.0.0.1:5501/productList/iPad.html"><button  class="button">Mua ngay</button></a>
+            <a href="http://localhost:8080/PPT-SHOPPING/productList/php/iPad.php"><button  class="button">Mua ngay</button></a>
             </div>
             <div class="img-card">
-                <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh4.png" alt="hinhanh">
+                <img class="hinhanh" src="/PPT-SHOPPING/image/hinhanh4.png" alt="hinhanh">
             </div>
         </div>
     </section>
@@ -148,8 +148,7 @@
 
 
     <!-- ------- SẢN PHẨM IPHONE -------- -->
-    
-    <section class="all-product-list-iphone">
+<section class="all-product-list-iphone">
         <div class="product-list-iphone">
 
                 <div class="title-iphone "><a class="tieude" href="#">iPhone</a></div>
@@ -178,7 +177,7 @@
                 <div class="prince-produce-iphone text-produce">Giá từ 17.000.000đ</div>
                 </div>
                 <div class="img-product ">
-                    <img class="hinhanh" src="/image/hinhanh7.jpg" alt="hinhanh">
+                    <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh7.jpg" alt="hinhanh">
                 </div>
             </div> 
             <div class="product-list-card-iphone">
@@ -193,7 +192,7 @@
             </div>                  
                 </div>
 
-            <a href="http://127.0.0.1:5501/productList/iPhone.html"><button  class="click-product-iphone"> Xem thêm iPhone > </button></a>
+            <a href="http://localhost:8080/PPT-SHOPPING/productList/php/iPhone.php"><button  class="click-product-iphone"> Xem thêm iPhone > </button></a>
             
         </div>
     </section>
@@ -212,7 +211,7 @@
                 <div class="icon-1 text-produce "> IPAD Air 5 </div>
                 <div class="prince-produce-ipad text-produce">Giá từ 15.290.000đ</div>
                 </div>
-                <div class="img-product text-produce">
+<div class="img-product text-produce">
                     <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh9.jpg" alt="hinhanh">
                 </div>
             </div>  
@@ -229,8 +228,8 @@
 
             <div class="product-list-card-ipad">
                 <div class="ipad-text-produce"> 
-                <div class="icon-1 text-produce "> IPAD Gen 9 (2021) </div>
-                <div class="prince-produce-ipad text-produce">Giá từ 9.260.000đ</div>
+                <div class="icon-1 text-produce "> IPAD Mini 6 </div>
+                <div class="prince-produce-ipad text-produce">Giá từ 13.660.000đ</div>
                 </div>
                 <div class="img-product text-produce">
                     <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh11.jpg" alt="hinhanh">
@@ -239,15 +238,15 @@
 
             <div class="product-list-card-ipad">
                 <div class="ipad-text-produce"> 
-                <div class="icon-1 text-produce "> IPAD Gen 9 (2021) </div>
-                <div class="prince-produce-ipad text-produce">Giá từ 9.260.000đ</div>
+                <div class="icon-1 text-produce "> IPAD Pro 11 inch </div>
+                <div class="prince-produce-ipad text-produce">Giá từ 19.260.000đ</div>
                 </div>
                 <div class="img-product text-produce">
                     <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh12.jpg" alt="hinhanh">
                 </div>
             </div>  
                 </div>
-                <a href="http://127.0.0.1:5501/productList/iPad.html"><button  class="click-product-ipad"> Xem thêm iPad ></button> </a>
+                <a href="http://localhost:8080/PPT-SHOPPING/productList/php/iPad.php"><button  class="click-product-ipad"> Xem thêm iPad ></button> </a>
                 </div>  
 
         </section>
@@ -277,7 +276,7 @@
             <div class="prince-produce-macbook text-produce">Giá từ 29.990.000đ</div>
             </div>
             <div class="img-product text-produce">
-                <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh14.jpg" alt="hinhanh">
+<img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh14.jpg" alt="hinhanh">
             </div>
         </div>  
 
@@ -303,7 +302,7 @@
             </div>
         </div>
     </div>  
-    <a href="http://127.0.0.1:5501/productList/mac.html"><button  class="click-product-macbook"> Xem thêm Mac > </button></a>
+    <a href="http://localhost:8080/PPT-SHOPPING/productList/php/mac.php"><button  class="click-product-macbook"> Xem thêm Mac > </button></a>
 </div>    
     </section>
 
@@ -347,7 +346,7 @@
         </div>  
 
         <div class="product-list-card-watch">
-            <div class="watch-text-produce"> 
+<div class="watch-text-produce"> 
             <div class="icon-1 text-produce "> Apple Watch Series 3 </div>
             <div class="prince-produce-watch text-produce">Giá từ 4.270.000đ</div>
             </div>
@@ -408,9 +407,9 @@
     <div class="box2">
         <h3>Sản Phẩm</h3>
         <ul class="full-list">
-            <li><a href="">iPhone</a></li>
-            <li><a href="">iPad</a></li>
-            <li><a href="">Mac</a></li>
+            <li><a href="http://localhost:8080/PPT-SHOPPING/productList/php/iPhone.php">iPhone</a></li>
+            <li><a href="http://localhost:8080/PPT-SHOPPING/productList/php/iPad.php">iPad</a></li>
+            <li><a href="http://localhost:8080/PPT-SHOPPING/productList/php/mac.php">Mac</a></li>
             <li><a href="">Apple Watch</a></li>
             <li><a href="">Âm Thanh</a></li>
             <li><a href="">Phụ Kiện</a></li>
@@ -429,7 +428,7 @@
                 <li><a href="">Tin Tức</a></li>
                 <li><a href="">Gửi góp ý khiếu nại</a></li>
                 <li><a href="">Phương thức thành toán</a></li>
-            </ul>
+</ul>
     </div>
         <div>
             <ul class="box3_1">

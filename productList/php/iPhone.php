@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-<html  lang="en">
+<html lang="en"></html>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>iPhone - Đại Lý Ủy Quyền Apple</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/PPT-SHOPPING/productList/css/iphone.css">
-    <link rel="stylesheet" href="/font/themify-icons-font/themify-icons/themify-icons.css">
+    <title>PTT Shop - Đại Lý Ủy Quyền Apple</title>
+    <link rel="stylesheet" href="http://ppt-shopping/productList/">
+    <link rel="stylesheet" href="/PPT-SHOPPING/font/themify-icons-font/themify-icons/themify-icons.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link rel="stylesheet" href="/PPT-SHOPPING/productList/css/iPhone.css">
 </head>
 
 <body>
@@ -20,13 +19,12 @@
         <div id="header">
             <!-- beign nav -->
             <ul id="nav">
-            <<li><a href="./index.php">PTT
+            <li><a href="./index.php">PTT
                     <i class="apple-logo ti-apple"></i>
                 </a></li>
                 <li><a class="menubar" href="./iPhone.php">iPhone</a></li>
                 <li><a class="menubar" href="./iPad.php">iPad</a></li>
                 <li><a class="menubar" href="./mac.php">Mac</a></li>
-                <li><a class="menubar" href="">Apple Watch</a></li>
                 <li><a class="menubar" href="">Apple Watch</a></li>
                 <li><a class="menubar" href="">Phụ Kiện</a></li>
                 <li><a class="menubar" href="">Âm Thanh</a></li>
@@ -76,8 +74,8 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/13promax.jpg" alt="">
-                        </a>
+                            <img src="/PPT-SHOPPING/productList/img/IPHONE/13promax.jpg" alt="">
+</a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
@@ -94,7 +92,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/11promax.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPHONE/11promax.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -113,7 +111,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/12promax.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPHONE/12promax.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -132,7 +130,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ip11.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPHONE/ip11.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -150,8 +148,8 @@
             <li>
                 <div class="product-item">
                     <div class="product-top">
-                        <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ip13.jpg" alt="">
+<a href="" class="product-thumb">
+                            <img src="/PPT-SHOPPING/productList/img/IPHONE/ip13.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -170,7 +168,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ipXsmax.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPHONE/ipXsmax.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -189,7 +187,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ip8plus.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPHONE/ip8plus.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -208,7 +206,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ip8.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPHONE/ip8.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -223,10 +221,10 @@
 
             <!-- sp9 -->
             <li>
-                <div class="product-item">
+<div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ip7plus.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPHONE/ip7plus.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -246,7 +244,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ip SE.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPHONE/ip SE.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -265,7 +263,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ip13mini.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPHONE/ip13mini.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -284,14 +282,14 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ip12pro.jpg" alt="">
+                            <img src="/PPT-SHOPPING /productList/img/IPHONE/ip12pro.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
                             <a href="" class="product-cat">64GB</a>
                             <a href="" class="product-name">iPhone 12 Pro</a>
-                            <div class="product-price">14.000.000</div>
+<div class="product-price">14.000.000</div>
                         </div>
                     </div>
                 
@@ -357,7 +355,7 @@
             <ul class="full-list">
                 <li><a href="">Trả góp</a></li>
                 <li><a href="">Giao Hàng</a></li>
-                <li><a href="">Hủy giao dịch</a></li>
+<li><a href="">Hủy giao dịch</a></li>
                 <li><a href="">Đổi trả</a></li>
                 <li><a href="">Bảo hành</a></li>
                 <li><a href="">Bảo mật thông tin</a></li>

@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html  lang="en">
+<html lang="en"></html>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>iPad - Đại Lý Ủy Quyền Apple</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
+    <title>PTT Shop - Đại Lý Ủy Quyền Apple</title>
+    <link rel="stylesheet" href="http://ppt-shopping/productList/">
+    <link rel="stylesheet" href="/PPT-SHOPPING/font/themify-icons-font/themify-icons/themify-icons.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link rel="stylesheet" href="/PPT-SHOPPING/productList/css/iPad.css">
-    <link rel="stylesheet" href="/font/themify-icons-font/themify-icons/themify-icons.css">
 </head>
+
 
 <body>
     <!-- -------- MENUBAR ---------  -->
@@ -20,17 +20,16 @@
         <div id="header">
             <!-- beign nav -->
             <ul id="nav">
-            <<li><a href="./index.php">PTT
+            <li><a href="./index.php">PTT
                     <i class="apple-logo ti-apple"></i>
                 </a></li>
                 <li><a class="menubar" href="./iPhone.php">iPhone</a></li>
                 <li><a class="menubar" href="./iPad.php">iPad</a></li>
                 <li><a class="menubar" href="./mac.php">Mac</a></li>
                 <li><a class="menubar" href="">Apple Watch</a></li>
-                <li><a class="menubar" href="">Apple Watch</a></li>
                 <li><a class="menubar" href="">Phụ Kiện</a></li>
                 <li><a class="menubar" href="">Âm Thanh</a></li>
-                <li><a class="menubar"href="">Thành Viên</a></li>
+                <li><a class="menubar" href="">Thành Viên</a></li>
                 <li><a class="menubar" href="">Góp ý</a></li>
                 <li><a class="menubar" href="">Mua Bán</a></li>
                 <li><a class="menubar" href="">Tin tức</a></li>
@@ -76,8 +75,8 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPAD/ipad gen5.png" alt="">
-                        </a>
+                            <img src="/PPT-SHOPPING/productList/img/IPAD/ipad gen5.png" alt="">
+</a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
@@ -94,7 +93,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPAD/ipad pro 2021.png" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPAD/ipad pro 2021.png" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -113,7 +112,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPAD/ipad pro m1.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPAD/ipad pro m1.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -132,7 +131,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPAD/iPad-Air-4.png" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPAD/iPad-Air-4.png" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -151,7 +150,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPAD/iPad-Air-5.png" alt="">
+<img src="/PPT-SHOPPING/productList/img/IPAD/iPad-Air-5.png" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -170,7 +169,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPAD/ipad-gen-9.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPAD/ipad-gen-9.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -189,7 +188,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPAD/ipad-mini4.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPAD/ipad-mini4.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -208,7 +207,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPAD/ipad pro 2020 128g.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPAD/ipad pro 2020 128g.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -223,10 +222,10 @@
 
             <!-- sp9 -->
             <li>
-                <div class="product-item">
+<div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPAD/iPadMini-2019.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPAD/iPadMini-2019.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -246,7 +245,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPAD/ipad-mini4.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPAD/ipad-mini4.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -265,7 +264,7 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPAD/ipad air 2 cũ.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPAD/ipad air 2 cũ.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
@@ -284,14 +283,14 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPAD/ipad pro 2020 512g.jpg" alt="">
+                            <img src="/PPT-SHOPPING/productList/img/IPAD/ipad pro 2020 512g.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
                             <a href="" class="product-cat">64GB</a>
                             <a href="" class="product-name">iPad Pro 2020 512Gb</a>
-                            <div class="product-price">20.000.000</div>
+<div class="product-price">20.000.000</div>
                         </div>
                     </div>
                 
@@ -357,7 +356,7 @@
             <ul class="full-list">
                 <li><a href="">Trả góp</a></li>
                 <li><a href="">Giao Hàng</a></li>
-                <li><a href="">Hủy giao dịch</a></li>
+<li><a href="">Hủy giao dịch</a></li>
                 <li><a href="">Đổi trả</a></li>
                 <li><a href="">Bảo hành</a></li>
                 <li><a href="">Bảo mật thông tin</a></li>
