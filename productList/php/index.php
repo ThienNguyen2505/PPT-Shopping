@@ -5,9 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PTT Shop - Đại Lý Ủy Quyền Apple</title>
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="http://ppt-shopping/productList/php/">
     <link rel="stylesheet" href="/font/themify-icons-font/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link rel="stylesheet" href="/PPT-SHOPPING/productList/css/style.css">
 </head>
 
 <body>
@@ -20,9 +21,9 @@
                 <li><a href="./index.php">PTT
                     <i class="apple-logo ti-apple"></i>
                 </a></li>
-                <li><a class="menubar" href="./productList/iPhone.php">iPhone</a></li>
-                <li><a class="menubar" href="./productList/iPad.php">iPad</a></li>
-                <li><a class="menubar" href="./productList/mac.php">Mac</a></li>
+                <li><a class="menubar" href="/PPT-SHOPPING/productList/php/iPhone.php">iPhone</a></li>
+                <li><a class="menubar" href="/PPT-SHOPPING/productList/php/iPad.php">iPad</a></li>
+                <li><a class="menubar" href="/PPT-SHOPPING/productList/php/mac.php">Mac</a></li>
                 <li><a class="menubar" href="">Apple Watch</a></li>
                 <li><a class="menubar" href="">Phụ Kiện</a></li>
                 <li><a class="menubar" href="">Âm Thanh</a></li>
@@ -69,13 +70,13 @@
 
             <div class="mySlides fade">
              
-              <img class="slide" src="/image/hinhanh28.png" style="width:100%">
+              <img class="slide" src="/PPT-SHOPPING/image/hinhanh28.png style=" width:100%>
               
             </div>
             
             <div class="mySlides fade">
             
-             <img class="slide" src="image/hinhanh34.webp" style="width:100%">
+             <img class="slide" src="/i" style="width:100%">
 
             </div>
             
@@ -116,7 +117,7 @@
            <a href="http://127.0.0.1:5501/productList/iPhone.html"> <button class="button">Mua ngay</button></a>
         </div>
             <div class="img-card">
-                <img class="hinhanh" src="/image/hinhanh2.png" alt="hinhanh">
+                <img class="hinhanh" src="/image/hinhanh11.jpg" alt="hinhanh">
             </div>
         </div>
 

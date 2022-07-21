@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./css/iPad.css">
+    <link rel="stylesheet" href="/PPT-SHOPPING/productList/css/iPad.css">
     <link rel="stylesheet" href="/font/themify-icons-font/themify-icons/themify-icons.css">
 </head>
 
@@ -20,7 +20,7 @@
         <div id="header">
             <!-- beign nav -->
             <ul id="nav">
-                <li><a href="index.html">PTT
+            <<li><a href="./index.php">PTT
                     <i class="apple-logo ti-apple"></i>
                 </a></li>
                 <li><a class="menubar" href="./iPhone.php">iPhone</a></li>
