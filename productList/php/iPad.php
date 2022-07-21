@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>iPhone - Đại Lý Ủy Quyền Apple</title>
+    <title>iPad - Đại Lý Ủy Quyền Apple</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/productList/css/iphone.css">
+    <link rel="stylesheet" href="./css/iPad.css">
     <link rel="stylesheet" href="/font/themify-icons-font/themify-icons/themify-icons.css">
 </head>
 
@@ -20,16 +20,17 @@
         <div id="header">
             <!-- beign nav -->
             <ul id="nav">
-                <li><a href="http://127.0.0.1:5501/index.html">PTT
+                <li><a href="index.html">PTT
                     <i class="apple-logo ti-apple"></i>
                 </a></li>
-                <li><a class="menubar" href="http://127.0.0.1:5501/productList/iPhone.html">iPhone</a></li>
-                <li><a class="menubar" href="http://127.0.0.1:5501/productList/iPad.html">iPad</a></li>
-                <li><a class="menubar" href="http://127.0.0.1:5501/productList/mac.html">Mac</a></li>
+                <li><a class="menubar" href="./iPhone.php">iPhone</a></li>
+                <li><a class="menubar" href="./iPad.php">iPad</a></li>
+                <li><a class="menubar" href="./mac.php">Mac</a></li>
+                <li><a class="menubar" href="">Apple Watch</a></li>
                 <li><a class="menubar" href="">Apple Watch</a></li>
                 <li><a class="menubar" href="">Phụ Kiện</a></li>
                 <li><a class="menubar" href="">Âm Thanh</a></li>
-                <li><a class="menubar" href="">Thành Viên</a></li>
+                <li><a class="menubar"href="">Thành Viên</a></li>
                 <li><a class="menubar" href="">Góp ý</a></li>
                 <li><a class="menubar" href="">Mua Bán</a></li>
                 <li><a class="menubar" href="">Tin tức</a></li>
@@ -67,7 +68,7 @@
     <!-- ---------------- -->
     <div id="wrapper">
         <div class="headline">
-            <h3 class="title-h3">IPHONE</h3>
+            <h3 class="title-h3">IPAD</h3>
         </div>
         <ul class="products">
             <!-- sp1 -->
@@ -75,14 +76,14 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/13promax.jpg" alt="">
+                            <img src="/productList/img/IPAD/ipad gen5.png" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
-                            <a href="" class="product-cat">512GB</a>
-                            <a href="" class="product-name">iPhone 13 ProMax</a>
-                            <div class="product-price">30.000.000</div>
+                            <a href="" class="product-cat">32GB</a>
+                            <a href="" class="product-name">iPad Gen5</a>
+                            <div class="product-price">10.000.000</div>
                         </div>
                     </div>
                 
@@ -93,14 +94,14 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/11promax.jpg" alt="">
+                            <img src="/productList/img/IPAD/ipad pro 2021.png" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
-                            <a href="" class="product-cat">256GB</a>
-                            <a href="" class="product-name">iPhone 11 ProMax</a>
-                            <div class="product-price">19.000.000</div>
+                            <a href="" class="product-cat">128GB</a>
+                            <a href="" class="product-name">iPad Pro 2021</a>
+                            <div class="product-price">20.000.000</div>
                         </div>
                     </div>
                 
@@ -112,13 +113,13 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/12promax.jpg" alt="">
+                            <img src="/productList/img/IPAD/ipad pro m1.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
-                            <a href="" class="product-cat">256GB</a>
-                            <a href="" class="product-name">iPhone 12 ProMax</a>
+                            <a href="" class="product-cat">128GB</a>
+                            <a href="" class="product-name">iPad Pro M1</a>
                             <div class="product-price">25.000.000</div>
                         </div>
                     </div>
@@ -131,14 +132,14 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ip11.jpg" alt="">
+                            <img src="/productList/img/IPAD/iPad-Air-4.png" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
                             <a href="" class="product-cat">64GB</a>
-                            <a href="" class="product-name">iPhone 11</a>
-                            <div class="product-price">14.000.000</div>
+                            <a href="" class="product-name">iPad Air 4</a>
+                            <div class="product-price">9.000.000</div>
                         </div>
                     </div>
                 
@@ -150,14 +151,14 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ip13.jpg" alt="">
+                            <img src="/productList/img/IPAD/iPad-Air-5.png" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
-                            <a href="" class="product-cat">64GB</a>
-                            <a href="" class="product-name">iPhone 13</a>
-                            <div class="product-price">20.000.000</div>
+                            <a href="" class="product-cat">32GB</a>
+                            <a href="" class="product-name">iPad Air 5</a>
+                            <div class="product-price">9.000.000</div>
                         </div>
                     </div>
                 
@@ -169,14 +170,14 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ipXsmax.jpg" alt="">
+                            <img src="/productList/img/IPAD/ipad-gen-9.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
                             <a href="" class="product-cat">64GB</a>
-                            <a href="" class="product-name">iPhone XsMax</a>
-                            <div class="product-price">9.000.000</div>
+                            <a href="" class="product-name">iPad Gen9</a>
+                            <div class="product-price">13.000.000</div>
                         </div>
                     </div>
                 
@@ -188,13 +189,13 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ip8plus.jpg" alt="">
+                            <img src="/productList/img/IPAD/ipad-mini4.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
-                            <a href="" class="product-cat">256GB</a>
-                            <a href="" class="product-name">iPhone 8 Plus</a>
+                            <a href="" class="product-cat">32GB</a>
+                            <a href="" class="product-name">iPad Mini4</a>
                             <div class="product-price">8.000.000</div>
                         </div>
                     
@@ -207,14 +208,14 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ip8.jpg" alt="">
+                            <img src="/productList/img/IPAD/ipad pro 2020 128g.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
-                            <a href="" class="product-cat">64GB</a>
-                            <a href="" class="product-name">iPhone 8</a>
-                            <div class="product-price">6.000.000</div>
+                            <a href="" class="product-cat">128GB</a>
+                            <a href="" class="product-name">iPad Pro 2020</a>
+                            <div class="product-price">25.000.000</div>
                         </div>
                     </div>
                 
@@ -225,14 +226,14 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ip7plus.jpg" alt="">
+                            <img src="/productList/img/IPAD/iPadMini-2019.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
                             <a href="" class="product-cat">64GB</a>
-                            <a href="" class="product-name">iPhone 7 Plus</a>
-                            <div class="product-price">5.000.000</div>
+                            <a href="" class="product-name">iPad Mini 2019</a>
+                            <div class="product-price">6.000.000</div>
                         </div>
                     </div>
                 
@@ -245,13 +246,13 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ip SE.jpg" alt="">
+                            <img src="/productList/img/IPAD/ipad-mini4.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
                             <a href="" class="product-cat">32GB</a>
-                            <a href="" class="product-name">iPhone SE</a>
+                            <a href="" class="product-name">iPad Mini4</a>
                             <div class="product-price">5.000.000</div>
                         </div>
                     </div>
@@ -264,14 +265,14 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ip13mini.jpg" alt="">
+                            <img src="/productList/img/IPAD/ipad air 2 cũ.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
-                            <a href="" class="product-cat">64GB</a>
-                            <a href="" class="product-name">iPhone 13 Mini</a>
-                            <div class="product-price">15.500.000</div>
+                            <a href="" class="product-cat">32GB</a>
+                            <a href="" class="product-name">iPad Air 2 Cũ</a>
+                            <div class="product-price">4.000.000</div>
                         </div>
                     </div>
                 
@@ -283,14 +284,14 @@
                 <div class="product-item">
                     <div class="product-top">
                         <a href="" class="product-thumb">
-                            <img src="/productList/img/IPHONE/ip12pro.jpg" alt="">
+                            <img src="/productList/img/IPAD/ipad pro 2020 512g.jpg" alt="">
                         </a>
                         <a href="" class="buy-now">Mua Ngay</a>
                     </div>  
                         <div class="product-info">
                             <a href="" class="product-cat">64GB</a>
-                            <a href="" class="product-name">iPhone 12 Pro</a>
-                            <div class="product-price">14.000.000</div>
+                            <a href="" class="product-name">iPad Pro 2020 512Gb</a>
+                            <div class="product-price">20.000.000</div>
                         </div>
                     </div>
                 
@@ -375,6 +376,5 @@
         </div>
         
     </footer>
-    </body>
 </body>
 </html>

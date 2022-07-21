@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PTT Shop - Đại Lý Ủy Quyền Apple</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./style.css">
     <link rel="stylesheet" href="/font/themify-icons-font/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 </head>
@@ -17,12 +17,12 @@
         <div id="header">
             <!-- beign nav -->
             <ul id="nav">
-                <li><a href="http://127.0.0.1:5501/index.html">PTT
+                <li><a href="./index.php">PTT
                     <i class="apple-logo ti-apple"></i>
                 </a></li>
-                <li><a class="menubar" href="http://127.0.0.1:5501/productList/iPhone.html">iPhone</a></li>
-                <li><a class="menubar" href="http://127.0.0.1:5501/productList/iPad.html">iPad</a></li>
-                <li><a class="menubar" href="http://127.0.0.1:5501/productList/mac.html">Mac</a></li>
+                <li><a class="menubar" href="./productList/iPhone.php">iPhone</a></li>
+                <li><a class="menubar" href="./productList/iPad.php">iPad</a></li>
+                <li><a class="menubar" href="./productList/mac.php">Mac</a></li>
                 <li><a class="menubar" href="">Apple Watch</a></li>
                 <li><a class="menubar" href="">Phụ Kiện</a></li>
                 <li><a class="menubar" href="">Âm Thanh</a></li>
