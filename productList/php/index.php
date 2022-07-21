@@ -70,25 +70,25 @@
 
             <div class="mySlides fade">
              
-              <img class="slide" src="/PPT-SHOPPING/image/hinhanh28.png style=" width:100%>
+              <img class="slide" src="/PPT-SHOPPING/image/hinhanh28.png" style= width:100% >
               
             </div>
             
             <div class="mySlides fade">
             
-             <img class="slide" src="/i" style="width:100%">
+             <img class="slide" src="" style="width:100%">
 
             </div>
             
             <div class="mySlides fade">
              
-              <img class="slide" src="image/hinhanh35.jpg" style="width:100%">
+              <img class="slide" src="/PPT-SHOPPING/image/hinhanh35.jpg" style="width:100%">
               
             </div>
 
             <div class="mySlides fade">
              
-                <img class="slide" src="image/hinhanh33.webp" style="width:100%">
+                <img class="slide" src="/PPT-SHOPPING/image/hinhanh33.webp" style="width:100%">
                 
               </div>
             
@@ -117,7 +117,7 @@
            <a href="http://127.0.0.1:5501/productList/iPhone.html"> <button class="button">Mua ngay</button></a>
         </div>
             <div class="img-card">
-                <img class="hinhanh" src="/image/hinhanh11.jpg" alt="hinhanh">
+                <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh11.jpg" alt="hinhanh">
             </div>
         </div>
 
@@ -129,7 +129,7 @@
             <a href="http://127.0.0.1:5501/productList/mac.html"><button class="button">Mua ngay</button></a>
             </div>
             <div class="img-card">
-                <img class="hinhanh" src="/image/hinhanh27.webp" alt="hinhanh">
+                <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh27.webp" alt="hinhanh">
             </div>
         </div>
 
@@ -141,7 +141,7 @@
             <a href="http://127.0.0.1:5501/productList/iPad.html"><button  class="button">Mua ngay</button></a>
             </div>
             <div class="img-card">
-                <img class="hinhanh" src="/image/hinhanh4.png" alt="hinhanh">
+                <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh4.png" alt="hinhanh">
             </div>
         </div>
     </section>
@@ -161,7 +161,7 @@
                 <div class="prince-produce-iphone text-produce">Giá từ 29.000.000đ</div>
             </div>
                 <div class="img-product ">
-                    <img class="hinhanh" src="/image/hinhanh5.png" alt="hinhanh">
+                    <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh5.png" alt="hinhanh">
                 </div>
             </div>  
             <div class="product-list-card-iphone">
@@ -170,7 +170,7 @@
                 <div class="prince-produce-iphone text-produce">Giá từ 22.000.000đ</div>
                 </div>
                 <div class="img-product ">
-                    <img class="hinhanh" src="/image/hinhanh6.jpg" alt="hinhanh">
+                    <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh6.jpg" alt="hinhanh">
                 </div>
             </div> 
             <div class="product-list-card-iphone">
@@ -188,7 +188,7 @@
                 <div class="prince-produce-iphone text-produce">Giá từ 13.000.000đ</div>
                 </div>
                 <div class="img-product ">
-                    <img class="hinhanh" src="/image/hinh anh 8.jpg" alt="hinhanh">
+                    <img class="hinhanh" src="/PPT-SHOPPING//image/hinh anh 8.jpg" alt="hinhanh">
 
                 </div>
             </div>                  
@@ -214,7 +214,7 @@
                 <div class="prince-produce-ipad text-produce">Giá từ 15.290.000đ</div>
                 </div>
                 <div class="img-product text-produce">
-                    <img class="hinhanh" src="/image/hinhanh9.jpg" alt="hinhanh">
+                    <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh9.jpg" alt="hinhanh">
                 </div>
             </div>  
 
@@ -224,7 +224,7 @@
                 <div class="prince-produce-ipad text-produce">Giá từ 9.260.000đ</div>
                 </div>
                 <div class="img-product text-produce">
-                    <img class="hinhanh" src="/image/hinhanh10.jpg" alt="hinhanh">
+                    <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh10.jpg" alt="hinhanh">
                 </div>
             </div>  
 
@@ -234,7 +234,7 @@
                 <div class="prince-produce-ipad text-produce">Giá từ 9.260.000đ</div>
                 </div>
                 <div class="img-product text-produce">
-                    <img class="hinhanh" src="/image/hinhanh11.jpg" alt="hinhanh">
+                    <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh11.jpg" alt="hinhanh">
                 </div>
             </div>  
 
@@ -244,7 +244,7 @@
                 <div class="prince-produce-ipad text-produce">Giá từ 9.260.000đ</div>
                 </div>
                 <div class="img-product text-produce">
-                    <img class="hinhanh" src="/image/hinhanh12.jpg" alt="hinhanh">
+                    <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh12.jpg" alt="hinhanh">
                 </div>
             </div>  
                 </div>
@@ -267,7 +267,7 @@
             <div class="prince-produce-macbook text-produce">Giá từ 31.990.000đ</div>
             </div>
             <div class="img-product text-produce">
-                <img class="hinhanh" src="/image/hinhanh13.webp" alt="hinhanh">
+                <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh13.webp" alt="hinhanh">
             </div>
         </div>  
 
@@ -278,7 +278,7 @@
             <div class="prince-produce-macbook text-produce">Giá từ 29.990.000đ</div>
             </div>
             <div class="img-product text-produce">
-                <img class="hinhanh" src="/image/hinhanh14.jpg" alt="hinhanh">
+                <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh14.jpg" alt="hinhanh">
             </div>
         </div>  
 
@@ -289,7 +289,7 @@
             <div class="prince-produce-macbook text-produce">Giá từ 26.890.000đ</div>
             </div>
             <div class="img-product text-produce">
-                <img class="hinhanh" src="/image/hinhanh15.jpg" alt="hinhanh">
+                <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh15.jpg" alt="hinhanh">
             </div>
         </div>  
 
@@ -300,7 +300,7 @@
             <div class="prince-produce-macbook text-produce">Giá từ 20.500.000đ</div>
             </div>
             <div class="img-product text-produce">
-                <img class="hinhanh" src="/image/hinhanh16.jpg" alt="hinhanh">
+                <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh16.jpg" alt="hinhanh">
             </div>
         </div>
     </div>  
@@ -323,7 +323,7 @@
             <div class="prince-produce-watch text-produce">Giá từ 17.990.000đ</div>
             </div>
             <div class="img-product text-produce">
-                <img class="hinhanh" src="/image/hinhanh17.jpg" alt="hinhanh">
+                <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh17.jpg" alt="hinhanh">
             </div>
         </div>  
 
@@ -333,7 +333,7 @@
             <div class="prince-produce-watch text-produce">Giá từ 8.990.000đ</div>
             </div>
             <div class="img-product text-produce">
-                <img class="hinhanh" src="/image/hinhanh18.jpg" alt="hinhanh">
+                <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh18.jpg" alt="hinhanh">
             </div>
         </div>  
 
@@ -343,7 +343,7 @@
             <div class="prince-produce-watch text-produce">Giá từ 6.550.000đ</div>
             </div>
             <div class="img-product text-produce">
-                <img class="hinhanh" src="/image/hinhanh19.jpg" alt="hinhanh">
+                <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh19.jpg" alt="hinhanh">
             </div>
         </div>  
 
@@ -353,7 +353,7 @@
             <div class="prince-produce-watch text-produce">Giá từ 4.270.000đ</div>
             </div>
             <div class="img-product text-produce">
-                <img class="hinhanh" src="/image/hinhanh20.jpg" alt="hinhanh">
+                <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh20.jpg" alt="hinhanh">
             </div>
                  </div> 
          </div>
