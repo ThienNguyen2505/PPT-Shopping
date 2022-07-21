@@ -129,7 +129,7 @@
             <a href="http://127.0.0.1:5501/productList/mac.html"><button class="button">Mua ngay</button></a>
             </div>
             <div class="img-card">
-                <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh27.webp" alt="hinhanh">
+                <img class="hinhanh" src="/PPT-SHOPPING//image/hinhanh3.jpg" alt="hinhanh">
             </div>
         </div>
 
